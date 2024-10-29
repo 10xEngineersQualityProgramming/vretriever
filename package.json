@@ -1,0 +1,42 @@
+{
+  "name": "vretriever",
+  "version": "1.0.0",
+  "description": "Retrieve values easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xEngineersQualityProgramming/vretriever.git"
+  },
+  "keywords": [
+    "retrieve",
+    "return",
+    "value",
+    "easy",
+    "idk",
+    "10x-engineer",
+    "truly-10x",
+    "not-1x"
+  ],
+  "author": "me",
+  "license": "10xGPWTHPL",
+  "bugs": {
+    "url": "https://github.com/10xEngineersQualityProgramming/vretriever/issues"
+  },
+  "homepage": "https://github.com/10xEngineersQualityProgramming/vretriever#readme",
+  "dependencies": {
+    "@_immo/return": "^1.1.1",
+    "array-map": "^0.0.1",
+    "const": "^1.0.0",
+    "is-useless": "^1.3.4",
+    "isarray": "^2.0.5",
+    "literally": "^1.0.0",
+    "lodash": "^4.17.21",
+    "lodash.constant": "^3.0.0",
+    "lodash.identity": "^3.0.0",
+    "underscore": "^1.13.7",
+    "vvalue": "^1.0.0"
+  }
+}
